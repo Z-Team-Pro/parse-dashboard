@@ -1,14 +1,6 @@
 {
   "apps": [
     {
-      "serverURL": "https://api.parse.com/1", // For an app still hosted on Parse.com
-      "appId": "myAppId",
-      "javascriptKey": "myJavascriptKey",
-      "restKey": "myRestKey",
-      "appName": "My Parse.Com App",
-      "production": true
-    },
-    {
       "serverURL": "https://zteam-zone.herokuapp.com/parse",
       "appId": "myAppId",
       "masterKey": "myMasterKey",
