@@ -1,1 +1,1 @@
-web: bin/parse-dashboard --config Parse-Dashboard/config.json
+web: bin/parse-dashboard --config Together/config.json
