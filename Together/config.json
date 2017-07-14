@@ -4,13 +4,7 @@
       "serverURL": "https://zteam-zone.herokuapp.com/parse",
       "appId": "myAppId",
       "masterKey": "myMasterKey",
-      "appName": "My Parse Server App"
-    }
-  ],
-  "users": [
-    {
-      "user":"Admin",
-      "pass":"TestForAdminScurePassword71110" // change this to something secure
+      "appName": "MyApp"
     }
   ]
 }
